@@ -1,4 +1,4 @@
-const subjects005 = [
+const subjects005_085 = [
 	{
 		"id": 4,
 		"nombre": "Nuevos entornos y lenguajes: la producción de conocimiento en la cultura digital",
@@ -16,14 +16,6 @@ const subjects005 = [
 		"esUnahur": false
 	},
 	{
-		"id": 41,
-		"nombre": "Programación",
-		"codigo": "040",
-		"cargaHorariaTotal": "64.00",
-		"cargaHorariaSemanal": "4.00",
-		"esUnahur": false
-	},
-	{
 		"id": 44,
 		"nombre": "Inglés II",
 		"codigo": "043",
@@ -37,6 +29,14 @@ const subjects005 = [
 		"codigo": "400",
 		"cargaHorariaTotal": "96.00",
 		"cargaHorariaSemanal": "6.00",
+		"esUnahur": false
+	},
+	{
+		"id": 150,
+		"nombre": "Algebra y Geometría Analítica",
+		"codigo": "401",
+		"cargaHorariaTotal": "64.00",
+		"cargaHorariaSemanal": "4.00",
 		"esUnahur": false
 	},
 	{
@@ -64,14 +64,6 @@ const subjects005 = [
 		"esUnahur": false
 	},
 	{
-		"id": 154,
-		"nombre": "Física I",
-		"codigo": "405",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
 		"id": 155,
 		"nombre": "Probabilidad y estadística",
 		"codigo": "406",
@@ -83,14 +75,6 @@ const subjects005 = [
 		"id": 156,
 		"nombre": "Física II",
 		"codigo": "407",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
-		"id": 158,
-		"nombre": "Electrotecnia",
-		"codigo": "409",
 		"cargaHorariaTotal": "96.00",
 		"cargaHorariaSemanal": "6.00",
 		"esUnahur": false
@@ -128,34 +112,12 @@ const subjects005 = [
 		"esUnahur": false
 	},
 	{
-		"id": 164,
-		"nombre": "Metalurgia física",
-		"codigo": "425",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
+		"id": 230,
+		"nombre": "Introducción a la programación",
+		"codigo": "702",
+		"cargaHorariaTotal": "64.00",
+		"cargaHorariaSemanal": "4.00",
 		"esUnahur": false
-	},
-	{
-		"id": 167,
-		"nombre": "ESIC I - Práctica Profesional Supervisada",
-		"codigo": "450",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
-		"id": 168,
-		"nombre": "ESIC II - Proyecto Integrador",
-		"codigo": "451",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
-		"id": 180,
-		"nombre": "Raíz del plan",
-		"codigo": null,
-		"esUnahur": true
 	},
 	{
 		"id": 427,
@@ -193,6 +155,14 @@ const subjects005 = [
 		"id": 431,
 		"nombre": "Culturas Juveniles",
 		"codigo": "AU_5",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
+		"esUnahur": true
+	},
+	{
+		"id": 432,
+		"nombre": "Filosofía",
+		"codigo": "AU_6",
 		"cargaHorariaTotal": "32.00",
 		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
@@ -246,44 +216,20 @@ const subjects005 = [
 		"esUnahur": true
 	},
 	{
-		"id": 443,
-		"nombre": "Organización Industrial",
-		"codigo": "528",
+		"id": 444,
+		"nombre": "Metalurgia I",
+		"codigo": "581",
 		"cargaHorariaTotal": "96.00",
 		"cargaHorariaSemanal": "6.00",
 		"esUnahur": false
 	},
 	{
-		"id": 446,
-		"nombre": "Química General II",
-		"codigo": "531",
+		"id": 445,
+		"nombre": "Ingeniería ambiental, seguridad e higiene",
+		"codigo": "530",
 		"cargaHorariaTotal": "96.00",
 		"cargaHorariaSemanal": "6.00",
 		"esUnahur": false
-	},
-	{
-		"id": 448,
-		"nombre": "CAMPO DE FORMACIÓN BASICA",
-		"codigo": null,
-		"esUnahur": true
-	},
-	{
-		"id": 449,
-		"nombre": "CAMPO DE FORMACIÓN ESPECÍFICA",
-		"codigo": null,
-		"esUnahur": true
-	},
-	{
-		"id": 450,
-		"nombre": "CAMPO DE FORMACIÓN COMÚN",
-		"codigo": null,
-		"esUnahur": true
-	},
-	{
-		"id": 451,
-		"nombre": "CAMPO DE FORMACIÓN COMPLEMENTARIO",
-		"codigo": null,
-		"esUnahur": true
 	},
 	{
 		"id": 447,
@@ -292,12 +238,6 @@ const subjects005 = [
 		"cargaHorariaTotal": "96.00",
 		"cargaHorariaSemanal": "6.00",
 		"esUnahur": false
-	},
-	{
-		"id": 452,
-		"nombre": "CAMPO DE INTEGRACIÓN CURRICULAR",
-		"codigo": null,
-		"esUnahur": true
 	},
 	{
 		"id": 464,
@@ -392,22 +332,6 @@ const subjects005 = [
 		"esUnahur": true
 	},
 	{
-		"id": 230,
-		"nombre": "Introducción a la programación",
-		"codigo": "702",
-		"cargaHorariaTotal": "64.00",
-		"cargaHorariaSemanal": "4.00",
-		"esUnahur": false
-	},
-	{
-		"id": 432,
-		"nombre": "Filosofía",
-		"codigo": "AU_6",
-		"cargaHorariaTotal": "32.00",
-		"cargaHorariaSemanal": "2.00",
-		"esUnahur": true
-	},
-	{
 		"id": 595,
 		"nombre": "Arte y Tecnología",
 		"codigo": "AU_24",
@@ -438,14 +362,6 @@ const subjects005 = [
 		"esUnahur": true
 	},
 	{
-		"id": 445,
-		"nombre": "Ingeniería ambiental, seguridad e higiene",
-		"codigo": "530",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
 		"id": 710,
 		"nombre": "AU_Arte contemporáneo: un recorrido por la historia del siglo XX a través de las vanguardias artísticas",
 		"codigo": "AU_30",
@@ -461,12 +377,6 @@ const subjects005 = [
 		"id": 713,
 		"nombre": "AU_Educación Sexual Integral. Cuando lo esencial es visible a los ojos",
 		"codigo": "AU_32",
-		"esUnahur": true
-	},
-	{
-		"id": 709,
-		"nombre": "AU_Educación Sexual Integral. Cuando lo esencial es (in)Visible a los ojos",
-		"codigo": "AU_29",
 		"esUnahur": true
 	},
 	{
@@ -500,17 +410,17 @@ const subjects005 = [
 		"esUnahur": true
 	},
 	{
-		"id": 1015,
-		"nombre": "AU_No sos vos, es Freud: una introducción al psicoanálisis",
-		"codigo": "AU_39",
+		"id": 1014,
+		"nombre": "AU_Introducción al psicoanálisis",
+		"codigo": "AU_38",
 		"cargaHorariaTotal": "32.00",
 		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
 	},
 	{
-		"id": 1014,
-		"nombre": "AU_Introducción al psicoanálisis",
-		"codigo": "AU_38",
+		"id": 1015,
+		"nombre": "AU_No sos vos, es Freud: una introducción al psicoanálisis",
+		"codigo": "AU_39",
 		"cargaHorariaTotal": "32.00",
 		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
@@ -594,14 +504,6 @@ const subjects005 = [
 		"cargaHorariaTotal": "32.00",
 		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
-	},
-	{
-		"id": 444,
-		"nombre": "Metalurgia I",
-		"codigo": "581",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
 	},
 	{
 		"id": 1280,
@@ -759,4 +661,4 @@ const subjects005 = [
 	}
 ];
 
-module.exports = { subjects005 };
+module.exports = { subjects005_085 };

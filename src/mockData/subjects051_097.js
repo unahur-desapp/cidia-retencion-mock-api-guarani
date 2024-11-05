@@ -1,4 +1,4 @@
-const subjects005 = [
+const subjects051_097 = [
 	{
 		"id": 4,
 		"nombre": "Nuevos entornos y lenguajes: la producción de conocimiento en la cultura digital",
@@ -14,148 +14,6 @@ const subjects005 = [
 		"cargaHorariaTotal": "32.00",
 		"cargaHorariaSemanal": "2.00",
 		"esUnahur": false
-	},
-	{
-		"id": 41,
-		"nombre": "Programación",
-		"codigo": "040",
-		"cargaHorariaTotal": "64.00",
-		"cargaHorariaSemanal": "4.00",
-		"esUnahur": false
-	},
-	{
-		"id": 44,
-		"nombre": "Inglés II",
-		"codigo": "043",
-		"cargaHorariaTotal": "32.00",
-		"cargaHorariaSemanal": "2.00",
-		"esUnahur": false
-	},
-	{
-		"id": 149,
-		"nombre": "Introducción al análisis matemático",
-		"codigo": "400",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
-		"id": 151,
-		"nombre": "Química General",
-		"codigo": "402",
-		"cargaHorariaTotal": "64.00",
-		"cargaHorariaSemanal": "4.00",
-		"esUnahur": false
-	},
-	{
-		"id": 152,
-		"nombre": "Análisis Matemático I",
-		"codigo": "403",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
-		"id": 153,
-		"nombre": "Sistemas de representación gráfica",
-		"codigo": "404",
-		"cargaHorariaTotal": "32.00",
-		"cargaHorariaSemanal": "2.00",
-		"esUnahur": false
-	},
-	{
-		"id": 154,
-		"nombre": "Física I",
-		"codigo": "405",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
-		"id": 155,
-		"nombre": "Probabilidad y estadística",
-		"codigo": "406",
-		"cargaHorariaTotal": "64.00",
-		"cargaHorariaSemanal": "4.00",
-		"esUnahur": false
-	},
-	{
-		"id": 156,
-		"nombre": "Física II",
-		"codigo": "407",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
-		"id": 158,
-		"nombre": "Electrotecnia",
-		"codigo": "409",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
-		"id": 160,
-		"nombre": "Introducción a la Metalurgia",
-		"codigo": "420",
-		"cargaHorariaTotal": "64.00",
-		"cargaHorariaSemanal": "4.00",
-		"esUnahur": false
-	},
-	{
-		"id": 161,
-		"nombre": "Técnicas de Análisis",
-		"codigo": "421",
-		"cargaHorariaTotal": "64.00",
-		"cargaHorariaSemanal": "4.00",
-		"esUnahur": false
-	},
-	{
-		"id": 162,
-		"nombre": "Ensayos de materiales",
-		"codigo": "422",
-		"cargaHorariaTotal": "64.00",
-		"cargaHorariaSemanal": "4.00",
-		"esUnahur": false
-	},
-	{
-		"id": 163,
-		"nombre": "Mineralogía y Tratamiento de los minerales",
-		"codigo": "423",
-		"cargaHorariaTotal": "64.00",
-		"cargaHorariaSemanal": "4.00",
-		"esUnahur": false
-	},
-	{
-		"id": 164,
-		"nombre": "Metalurgia física",
-		"codigo": "425",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
-		"id": 167,
-		"nombre": "ESIC I - Práctica Profesional Supervisada",
-		"codigo": "450",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
-		"id": 168,
-		"nombre": "ESIC II - Proyecto Integrador",
-		"codigo": "451",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
-		"id": 180,
-		"nombre": "Raíz del plan",
-		"codigo": null,
-		"esUnahur": true
 	},
 	{
 		"id": 427,
@@ -193,6 +51,14 @@ const subjects005 = [
 		"id": 431,
 		"nombre": "Culturas Juveniles",
 		"codigo": "AU_5",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
+		"esUnahur": true
+	},
+	{
+		"id": 432,
+		"nombre": "Filosofía",
+		"codigo": "AU_6",
 		"cargaHorariaTotal": "32.00",
 		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
@@ -243,60 +109,6 @@ const subjects005 = [
 		"codigo": "AU_12",
 		"cargaHorariaTotal": "32.00",
 		"cargaHorariaSemanal": "2.00",
-		"esUnahur": true
-	},
-	{
-		"id": 443,
-		"nombre": "Organización Industrial",
-		"codigo": "528",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
-		"id": 446,
-		"nombre": "Química General II",
-		"codigo": "531",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
-		"id": 448,
-		"nombre": "CAMPO DE FORMACIÓN BASICA",
-		"codigo": null,
-		"esUnahur": true
-	},
-	{
-		"id": 449,
-		"nombre": "CAMPO DE FORMACIÓN ESPECÍFICA",
-		"codigo": null,
-		"esUnahur": true
-	},
-	{
-		"id": 450,
-		"nombre": "CAMPO DE FORMACIÓN COMÚN",
-		"codigo": null,
-		"esUnahur": true
-	},
-	{
-		"id": 451,
-		"nombre": "CAMPO DE FORMACIÓN COMPLEMENTARIO",
-		"codigo": null,
-		"esUnahur": true
-	},
-	{
-		"id": 447,
-		"nombre": "Metalurgia II",
-		"codigo": "582",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
-		"id": 452,
-		"nombre": "CAMPO DE INTEGRACIÓN CURRICULAR",
-		"codigo": null,
 		"esUnahur": true
 	},
 	{
@@ -389,20 +201,6 @@ const subjects005 = [
 		"id": 594,
 		"nombre": "La vida secreta de las rocas",
 		"codigo": "AU_23",
-		"esUnahur": true
-	},
-	{
-		"id": 230,
-		"nombre": "Introducción a la programación",
-		"codigo": "702",
-		"cargaHorariaTotal": "64.00",
-		"cargaHorariaSemanal": "4.00",
-		"esUnahur": false
-	},
-	{
-		"id": 432,
-		"nombre": "Filosofía",
-		"codigo": "AU_6",
 		"cargaHorariaTotal": "32.00",
 		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
@@ -411,106 +209,246 @@ const subjects005 = [
 		"id": 595,
 		"nombre": "Arte y Tecnología",
 		"codigo": "AU_24",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
 	},
 	{
 		"id": 596,
 		"nombre": "Literatura y Política",
 		"codigo": "AU_25",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
 	},
 	{
 		"id": 600,
 		"nombre": "AU_Manipulacion genetica en humanos. Historia, mitos y realidades",
 		"codigo": "AU_26",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
 	},
 	{
 		"id": 676,
 		"nombre": "AU_Literatura y Memoria",
 		"codigo": "AU_27",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
 	},
 	{
 		"id": 677,
 		"nombre": "AU_Invitación a un clásico de la Literatura",
 		"codigo": "AU_28",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
-	},
-	{
-		"id": 445,
-		"nombre": "Ingeniería ambiental, seguridad e higiene",
-		"codigo": "530",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
 	},
 	{
 		"id": 710,
 		"nombre": "AU_Arte contemporáneo: un recorrido por la historia del siglo XX a través de las vanguardias artísticas",
 		"codigo": "AU_30",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
 	},
 	{
 		"id": 712,
 		"nombre": "AU_Una Historia del Rock Nacional",
 		"codigo": "AU_31",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
 	},
 	{
 		"id": 713,
 		"nombre": "AU_Educación Sexual Integral. Cuando lo esencial es visible a los ojos",
 		"codigo": "AU_32",
-		"esUnahur": true
-	},
-	{
-		"id": 709,
-		"nombre": "AU_Educación Sexual Integral. Cuando lo esencial es (in)Visible a los ojos",
-		"codigo": "AU_29",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
 	},
 	{
 		"id": 714,
 		"nombre": "AU_Género y Sociedad: una nueva mirada para una era mas justa",
 		"codigo": "AU_33",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
 	},
 	{
 		"id": 717,
 		"nombre": "AU_Introducción a la Imagen. (De la imagen fija a la imagen en movimiento)",
 		"codigo": "AU_34",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
 	},
 	{
 		"id": 718,
 		"nombre": "Cuando los Pasados No Pasan: lugares de memoria",
 		"codigo": "AU_35",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
 	},
 	{
 		"id": 719,
 		"nombre": "AU_Pensamiento Ambiental Latinoamericano",
 		"codigo": "AU_36",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
 	},
 	{
 		"id": 741,
 		"nombre": "AU_Pensamiento Pedagógico Latinoamericano",
 		"codigo": "AU_37",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
+		"esUnahur": true
+	},
+	{
+		"id": 885,
+		"nombre": "Biología",
+		"codigo": "1100",
+		"cargaHorariaTotal": "64.00",
+		"cargaHorariaSemanal": "4.00",
+		"esUnahur": false
+	},
+	{
+		"id": 886,
+		"nombre": "Taller de matemática aplicada",
+		"codigo": "1101",
+		"cargaHorariaTotal": "64.00",
+		"cargaHorariaSemanal": "4.00",
+		"esUnahur": false
+	},
+	{
+		"id": 887,
+		"nombre": "Introducción a la Agroecología",
+		"codigo": "1102",
+		"cargaHorariaTotal": "64.00",
+		"cargaHorariaSemanal": "4.00",
+		"esUnahur": false
+	},
+	{
+		"id": 888,
+		"nombre": "Introducción a la Botánica",
+		"codigo": "1103",
+		"cargaHorariaTotal": "96.00",
+		"cargaHorariaSemanal": "6.00",
+		"esUnahur": false
+	},
+	{
+		"id": 889,
+		"nombre": "Edafología y manejo agroecológico de suelos",
+		"codigo": "1104",
+		"cargaHorariaTotal": "64.00",
+		"cargaHorariaSemanal": "4.00",
+		"esUnahur": false
+	},
+	{
+		"id": 891,
+		"nombre": "Ecofisiología vegetal",
+		"codigo": "1106",
+		"cargaHorariaTotal": "64.00",
+		"cargaHorariaSemanal": "4.00",
+		"esUnahur": false
+	},
+	{
+		"id": 892,
+		"nombre": "Climatología y fenología agrícola",
+		"codigo": "1107",
+		"cargaHorariaTotal": "64.00",
+		"cargaHorariaSemanal": "4.00",
+		"esUnahur": false
+	},
+	{
+		"id": 893,
+		"nombre": "Producción vegetal agroecológica",
+		"codigo": "1108",
+		"cargaHorariaTotal": "96.00",
+		"cargaHorariaSemanal": "6.00",
+		"esUnahur": false
+	},
+	{
+		"id": 894,
+		"nombre": "Economía Social y Ecológica",
+		"codigo": "1109",
+		"cargaHorariaTotal": "64.00",
+		"cargaHorariaSemanal": "4.00",
+		"esUnahur": false
+	},
+	{
+		"id": 895,
+		"nombre": "Bases ecológicas para el diseño y manejo de agroecosistemas",
+		"codigo": "1110",
+		"cargaHorariaTotal": "64.00",
+		"cargaHorariaSemanal": "4.00",
+		"esUnahur": false
+	},
+	{
+		"id": 896,
+		"nombre": "Producción animal agroecológica",
+		"codigo": "1111",
+		"cargaHorariaTotal": "96.00",
+		"cargaHorariaSemanal": "6.00",
+		"esUnahur": false
+	},
+	{
+		"id": 900,
+		"nombre": "Políticas para la agroecología",
+		"codigo": "1115",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
+		"esUnahur": false
+	},
+	{
+		"id": 901,
+		"nombre": "Tecnologías para la agricultura familiar y la agroecología",
+		"codigo": "1116",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
+		"esUnahur": false
+	},
+	{
+		"id": 902,
+		"nombre": "Taller de Prácticas Agroecológicas III",
+		"codigo": "1117",
+		"cargaHorariaTotal": "96.00",
+		"cargaHorariaSemanal": "6.00",
+		"esUnahur": false
+	},
+	{
+		"id": 906,
+		"nombre": "Inmersión a la realidad agropecuaria nacional",
+		"codigo": "1153",
+		"cargaHorariaTotal": "64.00",
+		"cargaHorariaSemanal": "4.00",
+		"esUnahur": false
+	},
+	{
+		"id": 907,
+		"nombre": "Taller de Viverismo II",
+		"codigo": "1154",
+		"cargaHorariaTotal": "64.00",
+		"cargaHorariaSemanal": "4.00",
+		"esUnahur": false
+	},
+	{
+		"id": 1014,
+		"nombre": "AU_Introducción al psicoanálisis",
+		"codigo": "AU_38",
+		"cargaHorariaTotal": "32.00",
+		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
 	},
 	{
 		"id": 1015,
 		"nombre": "AU_No sos vos, es Freud: una introducción al psicoanálisis",
 		"codigo": "AU_39",
-		"cargaHorariaTotal": "32.00",
-		"cargaHorariaSemanal": "2.00",
-		"esUnahur": true
-	},
-	{
-		"id": 1014,
-		"nombre": "AU_Introducción al psicoanálisis",
-		"codigo": "AU_38",
 		"cargaHorariaTotal": "32.00",
 		"cargaHorariaSemanal": "2.00",
 		"esUnahur": true
@@ -596,77 +534,11 @@ const subjects005 = [
 		"esUnahur": true
 	},
 	{
-		"id": 444,
-		"nombre": "Metalurgia I",
-		"codigo": "581",
-		"cargaHorariaTotal": "96.00",
-		"cargaHorariaSemanal": "6.00",
-		"esUnahur": false
-	},
-	{
 		"id": 1280,
 		"nombre": "CINE.AR La Argentina contemporánea a través del cine",
 		"codigo": "AU_50",
 		"cargaHorariaTotal": "32.00",
 		"cargaHorariaSemanal": "2.00",
-		"esUnahur": true
-	},
-	{
-		"id": 1416,
-		"nombre": "Campo de formación común (CFC) - TU en Metalurgia",
-		"codigo": null,
-		"esUnahur": true
-	},
-	{
-		"id": 1417,
-		"nombre": "Campo de formación básica (CFB) - TU en Metalurgia",
-		"codigo": null,
-		"esUnahur": true
-	},
-	{
-		"id": 1418,
-		"nombre": "Campo de formación específica (CFE) - TU en Metalurgia",
-		"codigo": null,
-		"esUnahur": true
-	},
-	{
-		"id": 1419,
-		"nombre": "Campo de integración curricular (CIC) - TU en Metalurgia",
-		"codigo": null,
-		"esUnahur": true
-	},
-	{
-		"id": 1420,
-		"nombre": "Raíz del plan",
-		"codigo": null,
-		"esUnahur": true
-	},
-	{
-		"id": 1438,
-		"nombre": "Espacio de integración curricular I (Práctica profesional supervisada)",
-		"codigo": "453",
-		"cargaHorariaTotal": "128.00",
-		"cargaHorariaSemanal": "8.00",
-		"esUnahur": false
-	},
-	{
-		"id": 1439,
-		"nombre": "Créditos de actividades formativas, académica y profesionales; formativas de docencia e investigación; Actividades sociales y culturales vinculadas al campo profesional; otras actividades",
-		"codigo": "CR_005_2",
-		"esUnahur": false
-	},
-	{
-		"id": 1441,
-		"nombre": "Física I",
-		"codigo": "1520",
-		"cargaHorariaTotal": "64.00",
-		"cargaHorariaSemanal": "4.00",
-		"esUnahur": false
-	},
-	{
-		"id": 1450,
-		"nombre": "Créditos - TU en Metalurgia",
-		"codigo": null,
 		"esUnahur": true
 	},
 	{
@@ -686,39 +558,27 @@ const subjects005 = [
 		"esUnahur": true
 	},
 	{
-		"id": 1540,
-		"nombre": "Formación Profesional",
-		"codigo": "CR024",
+		"id": 1698,
+		"nombre": "Ateneo de estudio de casos",
+		"codigo": "1171",
+		"cargaHorariaTotal": "64.00",
+		"cargaHorariaSemanal": "4.00",
 		"esUnahur": false
 	},
 	{
-		"id": 1657,
-		"nombre": "Visita a Planta ACERBRAG",
-		"codigo": "CR_I005_001",
+		"id": 1706,
+		"nombre": "Química general",
+		"codigo": "1175",
+		"cargaHorariaTotal": "64.00",
+		"cargaHorariaSemanal": "4.00",
 		"esUnahur": false
 	},
 	{
-		"id": 1658,
-		"nombre": "Jornada de METALURGIA - Oyente",
-		"codigo": "CR_I005_002",
-		"esUnahur": false
-	},
-	{
-		"id": 1659,
-		"nombre": "Jornada de METALURGIA - Asistente",
-		"codigo": "CR_I005_003",
-		"esUnahur": false
-	},
-	{
-		"id": 1660,
-		"nombre": "Jornada de METALURGIA - Expositor",
-		"codigo": "CR_I005_004",
-		"esUnahur": false
-	},
-	{
-		"id": 1662,
-		"nombre": "Rally Latinoamericano de Innovación",
-		"codigo": "CR_I004_002",
+		"id": 1726,
+		"nombre": "Manejo agroecológico de adversidades",
+		"codigo": "1189",
+		"cargaHorariaTotal": "64.00",
+		"cargaHorariaSemanal": "4.00",
 		"esUnahur": false
 	},
 	{
@@ -746,17 +606,55 @@ const subjects005 = [
 		"esUnahur": true
 	},
 	{
-		"id": 1760,
-		"nombre": "Voluntariado un estudiante un compañero",
-		"codigo": "CR_I004_015",
+		"id": 1771,
+		"nombre": "Fundamentos de sanidad vegetal",
+		"codigo": "1191",
+		"cargaHorariaTotal": "64.00",
+		"cargaHorariaSemanal": "4.00",
 		"esUnahur": false
 	},
 	{
-		"id": 1799,
-		"nombre": "Visita a Tandanor",
-		"codigo": "CR_I005_005",
+		"id": 1773,
+		"nombre": "Raíz del plan",
+		"codigo": null,
+		"esUnahur": true
+	},
+	{
+		"id": 1774,
+		"nombre": "1er año - Tecnicatura Universitaria en Producción Agroecológica Periurbana",
+		"codigo": null,
+		"esUnahur": true
+	},
+	{
+		"id": 1775,
+		"nombre": "2do año - Tecnicatura Universitaria en Producción Agroecológica Periurbana",
+		"codigo": null,
+		"esUnahur": true
+	},
+	{
+		"id": 1776,
+		"nombre": "3er año - Tecnicatura Universitaria en Producción Agroecológica Periurbana",
+		"codigo": null,
+		"esUnahur": true
+	},
+	{
+		"id": 1777,
+		"nombre": "Créditos - Tecnicatura Universitaria en Producción Agroecológica Periurbana",
+		"codigo": null,
+		"esUnahur": true
+	},
+	{
+		"id": 1778,
+		"nombre": "TU en Producción Agroecológica Periurbana: Créditos de actividades formativas, académica y profesionales; formativas de docencia e investigación; sociales y culturales vinculadas al campo profesional; otras actividades",
+		"codigo": "CR_027",
+		"esUnahur": false
+	},
+	{
+		"id": 1780,
+		"nombre": "Curso \"Biodiversidad forestal\"",
+		"codigo": "CR_BIO_001",
 		"esUnahur": false
 	}
 ];
 
-module.exports = { subjects005 };
+module.exports = { subjects051_097 };
